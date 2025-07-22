@@ -14,7 +14,3 @@ function apagarCampos() {
     document.getElementById('numero2').value = '';
     document.getElementById('resultado').innerText = '';
 }
-
-// Função para calcular a média de dois números
-
-// Exemplo de uso
